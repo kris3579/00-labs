@@ -22,7 +22,7 @@ Follow these instructions carefully and in order.
 
 ##### Investigate how `let` and `const` are now used in the code. Where did you need to convert `const` into `let` to make the code work? Can you identify any patterns/similarities?
 
-(Put your answer here)
+I needed to change the 'const' into 'let' in situations in which the declaration was made inside a for loop. This was because with const, you may not reassign the variable and while it was inside the for loop the variable needed to change for each iteration. 
 
 ---
 
