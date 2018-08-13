@@ -28,4 +28,4 @@ I needed to change the 'const' into 'let' in situations in which the declaration
 
 ##### How did it go with making the adaptation from concatenations to template literal notation? Do you think you'll mostly use template literal notation from now on?
 
-(Put your answer here)
+I was very confused at first but once it clicked it was very simple, I do think I will use this as it both looks better and is easier to write the syntax.
